@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity"
+    android:background="#69659d" >
+
+    <Spinner
+        android:id="@+id/spCompany"
+        android:layout_width="match_parent"
+        android:layout_height="75dp"
+        android:layout_marginLeft="25dp"
+        android:layout_marginTop="100dp"
+        android:layout_marginRight="25dp"
+        android:background="@drawable/spinner"
+        android:spinnerMode="dropdown"
+        android:textColor="#ffffff"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:text="Seleziona la categoria e il prodotto"
+        android:textColor="#ffffff"
+        android:textSize="20sp" />
+
+    <Spinner
+        android:id="@+id/spProdotto"
+        android:layout_width="match_parent"
+        android:layout_height="75dp"
+        android:layout_marginLeft="25dp"
+        android:layout_marginTop="100dp"
+        android:layout_marginRight="25dp"
+        android:background="@drawable/spinner"
+        android:spinnerMode="dropdown"
+        android:textColor="#ffffff"
+        />
+
+    <Button
+        android:id="@+id/bt1"
+        android:layout_width="match_parent"
+        android:layout_height="58dp"
+        android:text="PRODOTTO CITTA'" />
+
+    <Button
+        android:id="@+id/bt2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="PRODOTTO COORDINATE" />
+
+</LinearLayout>
