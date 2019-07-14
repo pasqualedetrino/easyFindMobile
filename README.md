@@ -13,9 +13,8 @@ The second button allows choise the search radius from the current position take
 * AndroidStudio
 * Start easyFind web server
 
-## Run app on smartphone
+# Run app on smartphone
 * GPS access
-```
-<h4>Presentation</h4>
-<a href="easyFind_De_Trino_Pasquale.pdf">
-Presentation </a>
+
+# Presentation
+<a href="easyFind_De_Trino_Pasquale.pdf"> Presentation </a>
