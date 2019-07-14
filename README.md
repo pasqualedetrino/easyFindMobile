@@ -17,5 +17,5 @@ The second button allows choise the search radius from the current position take
 * GPS access
 ```
 <h4>Presentation</h4>
-<a href="Presentazione_progetto_completo-[Bevilacqua-De_Trino].pdf">
+<a href="easyFind_De_Trino_Pasquale.pdf">
 Presentation </a>
